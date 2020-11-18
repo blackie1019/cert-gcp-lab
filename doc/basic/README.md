@@ -14,13 +14,22 @@
 
     >You can [request](https://cloud.google.com/compute/quotas#requesting_additional_quota) special preemptible quotas for: Preemptible CPUs, Preemptible GPUs, or Preemptible Local SSDs (GB). However, if your project does not have preemptible quota, you can still use the regular quota to launch preemptible resources.
 
+查詢當前Soft limit(quotas)
 
+    gcloud compute  project-info describe --project=black-sanctum-295814
 
-## Commands
+## Cloud Deployment Manager
 
-1. 查詢當前Soft limit(quotas)
+Templated Deploy Flow
 
-        gcloud compute  project-info describe --project=black-sanctum-295814
+## GCP Markepplace(aka Cloud Launcher)
+
+Buy a Product directly with assemble solution by hands.
+
+## Storage : Nearline and Coldline
+
+![cloud_computing-google_cloud_storage_classes.png](images/cloud_computing-google_cloud_storage_classes.png)
+
 
 ## Reference 
 

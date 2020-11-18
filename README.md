@@ -7,4 +7,4 @@ Cert Lab for GCP
 
 ## Docs
 
-- [Basic](doc/basic.md)
+- [Basic](doc/basic)
