@@ -30,7 +30,21 @@ Buy a Product directly with assemble solution by hands.
 
 ![cloud_computing-google_cloud_storage_classes.png](images/cloud_computing-google_cloud_storage_classes.png)
 
+## Networking
 
-## Reference 
+- Virual Private Cloud
+- Dedicated Interconnect
+- Partner Interconnect
+- Cloud NAT
+
+## Cloud Shell
+
+下載任何檔案
+
+    dl xxxxx.xx
+
+
+
+## Reference
 
 - [Compute Engine > Documentation > Resources:Resource quotas](https://cloud.google.com/compute/quotas)
