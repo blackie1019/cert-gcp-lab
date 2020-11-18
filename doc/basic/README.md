@@ -32,7 +32,7 @@ Buy a Product directly with assemble solution by hands.
 
 ## Networking
 
-- Virual Private Cloud
+- Virtual Private Cloud
 - Dedicated Interconnect
 - Partner Interconnect
 - Cloud NAT
