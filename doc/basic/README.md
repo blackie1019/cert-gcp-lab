@@ -45,6 +45,8 @@ Buy a Product directly with assemble solution by hands.
 
 ## DataFlow
 
+Moving, Processing, Remembering
+
 ![dataflow](images/dataflow.png)
 
 ## Reference
