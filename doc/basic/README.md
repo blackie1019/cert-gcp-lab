@@ -43,7 +43,9 @@ Buy a Product directly with assemble solution by hands.
 
     dl xxxxx.xx
 
+## DataFlow
 
+![dataflow](images/dataflow.png)
 
 ## Reference
 
